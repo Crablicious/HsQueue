@@ -1,0 +1,7 @@
+## Interface: 20503
+## Version: 1.0.0
+## Title: HsQueue
+## Notes: Prints heroic strike queue statistics
+## Author: Crablicious
+
+HsQueue.lua
